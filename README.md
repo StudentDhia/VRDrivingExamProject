@@ -5,3 +5,4 @@ The user gets to drive in Ariana (Tunis) city with some vocal assistance to get 
 Game takes in account the mistakes you make and gives you some advice.
 The exam results are in PDF form so you can print it out.
 Player controls the car with the Logitech steering wheel G29 in 1st view.
+(Game scripts without the assets)
